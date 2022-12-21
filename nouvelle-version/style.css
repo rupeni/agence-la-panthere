@@ -45,11 +45,30 @@ a:hover {
     color: silver;
 
 }
+.citation-author{
+    font-size: 19px;
+    text-align: center;
+    line-height: 0px;
+    
+}
+.text-center3{
+    font-size: 22px;
+    text-align: center;
+    
+}
+.text-center2{
+    font-size: 11px;
+    text-align: center;
+}
 .text-center1{
-    font-size: 15px;
+    font-size: 11px;
+    text-align: center;
 }
 .text-center {
     font-size: 15px;
+}
+.tc-white1 {
+    color: #fcf8e3!important;
 }
 .citation{
     font-style: italic;
@@ -705,7 +724,8 @@ a {
 }
 
 p {
-    font-size: 19px;
+    font-size: 11px;
+    text-align: center;
 }
 
 .tight-width-whitespace {
@@ -731,6 +751,7 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
+
 
 h2 {
     font-size: 22px;
